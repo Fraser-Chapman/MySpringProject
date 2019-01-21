@@ -1,2 +1,2 @@
 language: java
-before_script: cd exercises/java
+before_script: cd src/main/java
