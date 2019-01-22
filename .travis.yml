@@ -1,2 +1,3 @@
 language: java
+install: ant deps
 before_script: cd src/main/java

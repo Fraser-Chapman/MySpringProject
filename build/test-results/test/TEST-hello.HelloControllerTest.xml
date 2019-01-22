@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.HelloControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-01-22T12:55:53" hostname="MCR-AL32360" time="0.035">
+  <properties/>
+  <testcase name="indexReturnsGreeting" classname="hello.HelloControllerTest" time="0.035"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
