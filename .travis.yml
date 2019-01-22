@@ -3,5 +3,3 @@ language: java
 jdk:
   - oraclejdk8
 before_script: cd src/main/java
-exclude:
-  - ant test
