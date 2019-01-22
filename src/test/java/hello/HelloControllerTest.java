@@ -14,5 +14,4 @@ public class HelloControllerTest {
         testSubject = new HelloController();
         Assertions.assertThat(testSubject.index()).isEqualTo("Greetings from Spring Boot");
     }
-
 }
